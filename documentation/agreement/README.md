@@ -9,8 +9,8 @@ The purpose of this document is to outline the various processes and agreements 
 * [User Experience](USER_EXPERIENCE.md)
 * [Prototype vs Production Code](PROTOTYPE_VS_PRODUCTION.md)
 * [Code Standards](CODE_STANDARDS.md)
-* [Pull Requests](PULL_REQUESTS.md)
-* [Code Review](CODE_REVIEW.md)
+* [Pull Requests](PULL_REQUESTS.md) *
+* [Code Review](CODE_REVIEW.md) *
 * [Dependencies](DEPENDENCIES.md)
 * [Testing Process](TESTING_PROCESS.md)
 * [Merge Process](MERGE_PROCESS.md)
