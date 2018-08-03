@@ -2,7 +2,23 @@ Meetings
 ===============================
 [Back to Team Agreement](README.md)
 
-In general during a meeting practice good listening skills, stay attentive (laptops / phones down unless necessary), and come prepared.  Any/all meetings should have a clear agenda, a facilitator/owner/leader, and outcomes.  The facilitator should also identify potential next steps and assign owners for any followup tasks needed.  Below are a list of reoccuring and ad-hoc type of meetings.
+## All meetings
+
+- Arrive on time
+- Stay attentive (laptops / phones down unless necessary)
+- Come prepared
+- Include a note if declining
+- Verbally check-out if you feel you're not needed in a meeting so people can disagree
+
+## Ad-hoc meetings 
+
+- Should have a clear agenda, a facilitator/owner/leader, and outcomes.
+- Preperatory work should be documented
+- The facilitator should also identify potential next steps and assign owners for any followup tasks needed. 
+- Respect the required/optional statuses
+- Get a room
+- Put a meet
+
 
 ## Reoccuring Meetings
 
@@ -10,6 +26,8 @@ In general during a meeting practice good listening skills, stay attentive (lapt
    * What was worked on the previous work day?
    * What will be tackled today?
    * What if/any blockers exist?
+   * General announcements
+   * Call out the people you know you need for post-standup conversations. All others optional.
 * Review - ~1hr meeting after each sprint to "review" what work was accomplished (includes demo's etc...)
 * Stakeholder - ~1hr meeting after each sprint/review with leadership and stakeholders to discuss major items of interest
 * Grooming - ~45min meeting to determine what individual tickets are needed for a specific feature / line of work
