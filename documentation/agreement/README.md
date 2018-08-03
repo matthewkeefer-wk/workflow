@@ -20,8 +20,29 @@ The purpose of this document is to outline the various processes and agreements 
 * [Meetings](MEETINGS.md)
 
 
-Change process:
+### Change process
 
 - Make a PR
 - Ask for discussion
 - Open PRs will be discussed at Retro for closing
+
+### Existing Parking Lot
+
+- PR template should have room to BE DESCRIPTIVE
+- Branching strategy. Master has to always be releasable. 
+- Contract testing in order to address dependent services
+- Ping each other when we’re deploying something that might break something else
+- What even are stories?
+- Standup rules. Some people want to dump the JIRA board from the standup.
+- IS it scottsfam or AZfam?
+- JIRA Columns and workflow
+
+#### Code Standards
+
+  - Commit comments should have a ticket number on them
+  - Each repo has a CONTRIBUTING.md
+  - Checkstyle. Possibly belongs in Contributing.
+  - Testing requirements should be documented in the repo
+
+
+
