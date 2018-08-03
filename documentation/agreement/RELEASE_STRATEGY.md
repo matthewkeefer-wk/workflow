@@ -1,18 +1,15 @@
-Release Strategy
+Release Process
 ===============================
 [Back to Team Agreement](README.md)
 
-* Spreadsheets has a daily rotating (between DM's and QA/SDETs) release "manager" that is responsible for monitoring all of the automatically generated release PRs associated with Spreadsheets (skaar and dt), as well as the release pipelines that are kicked off.
-* Refer to the [SkaarDB Pipeline](https://w-rmconsole.appspot.com/repo/Workiva/skaardb/pipeline_template/)
-* Refer to the [Spreadsheet Signals Plans](https://wf-skynet.appspot.com/signals?group=5081205232107520)
-   * [spreadsheets_pentest_smoke_test](https://wf-skynet.appspot.com/signals/773306074)
-   * [spreadsheets_wk-dev_smoke_test](https://wf-skynet-hrd.appspot.com/signals/825176053)
-* Every day at 9AM CDT, Rosie will automatically cut a release off of the master branch
-* We can also cut a tag whenever we need one via Marv
-* If a regression occurs the first thing that will be done is revert the offending PR and re-tag a patch release.
-* On the subsequent patch/followup work, the one who breaks a deploy or causes a regression is responsible for writing tests to assert that breakage doesn't happen again
-   * The fix PR needs to contain the tests to assert the breakage doesn't happen again, as that would specify what's needed and when it's needed.
-   * Prefer the lowest testable layer to verify the deploy won't break again
+- Use MARV to create release PRs
+- Use MARV to message relevant hipchat rooms when a Release PR is created
+- Ensure that release PRs only contain version changes
+- All repositories should use pipelines (except the ones that can't)
+- Use [Semver](https://semver.org/)
+- It's too early to determine a release cadence, but continuous deployment is the goal we're working towards
+
+
 
 ## Additional References
 
