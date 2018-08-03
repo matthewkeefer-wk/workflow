@@ -8,7 +8,7 @@ These documents have been updated from SkaarDB:
 
 * [Pull Requests](PULL_REQUESTS.md)
 * [Code Review](CODE_REVIEW.md)
-* [Release Strategy](RELEASE_STRATEGY.md)
+* [Release Process](RELEASE_STRATEGY.md)
 * [Meetings](MEETINGS.md)
 * [JIRA Tickets](TICKETS.md)
 
