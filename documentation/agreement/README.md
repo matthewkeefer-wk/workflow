@@ -10,6 +10,7 @@ These documents have been updated from SkaarDB:
 * [Code Review](CODE_REVIEW.md)
 * [Release Strategy](RELEASE_STRATEGY.md)
 * [Meetings](MEETINGS.md)
+* [JIRA Tickets](TICKETS.md)
 
 These are still direct copies of SkaarDB's Team Agreement:
 
