@@ -19,4 +19,9 @@ The purpose of this document is to outline the various processes and agreements 
 * [Support / Monitoring / Feedback](SUPPORT_MONITORING_FEEDBACK.md)
 * [Meetings](MEETINGS.md)
 
-If you have any suggestions feel free to make a PR and gather consensus (+1 etc...) and merge back into this agreement document.
+
+Change process:
+
+- Make a PR
+- Ask for discussion
+- Open PRs will be discussed at Retro for closing
