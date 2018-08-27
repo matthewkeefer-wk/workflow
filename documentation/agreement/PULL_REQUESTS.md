@@ -11,3 +11,4 @@ Pull Requests
 - Review your own code before submitting a PR for review
 - Add a "Do not review" label to PRs that are not ready for review
 - If you're changing code, tag the person that originally wrote it
+- Delete the branch after merging

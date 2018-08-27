@@ -11,6 +11,7 @@ These documents have been updated from SkaarDB:
 * [Release Process](RELEASE_STRATEGY.md)
 * [Meetings](MEETINGS.md)
 * [JIRA Tickets](TICKETS.md)
+* [Branch Strategy](BRANCH_STRATEGY.md)
 
 These are still direct copies of SkaarDB's Team Agreement:
 
@@ -35,7 +36,7 @@ These are still direct copies of SkaarDB's Team Agreement:
 ### Existing Parking Lot
 
 - PR template should have room to BE DESCRIPTIVE
-- Branching strategy. Master has to always be releasable. 
+- Branching strategy. Master has to always be releasable.
 - Contract testing in order to address dependent services
 - Ping each other when we’re deploying something that might break something else
 - What even are stories?
@@ -46,6 +47,3 @@ These are still direct copies of SkaarDB's Team Agreement:
 - Each repo has a CONTRIBUTING.md
 - Checkstyle. Possibly belongs in Contributing.
 - Testing requirements should be documented in the repo
-
-
-
