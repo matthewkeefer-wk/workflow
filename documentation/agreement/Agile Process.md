@@ -26,8 +26,6 @@
 
 <span class="c3">Carter: Identify high level technical tasks involved in completing AC</span>
 
-<span class="c3">Val: Provide necessary UX direction and prototypes/mocks</span>
-
 <span class="c3">Bonk: Provide necessary UX direction and prototypes/mocks</span>
 
 ### <span class="c6">Purpose</span>
